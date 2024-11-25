@@ -1,0 +1,5 @@
+	Wilcoxon rank sum test with continuity correction
+
+data:  data$real_time_seconds by data$verified
+W = 3849, p-value = 0.2372
+alternative hypothesis: true location shift is not equal to 0
